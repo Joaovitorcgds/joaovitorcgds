@@ -1,8 +1,8 @@
 ### Olá!! Me chamo João Vitor
 
-- 📚 No momento estou aprendendo Javascript 
-- 🤓 Comecei os estudos a pouco tempo e ja quero criar um facebook da vida
-- 📫 Se quiser você pode mandar mensagem lá no instagram
+- 📚 No momento estou aprendendo ReactJs 
+- 🤓 Comecei os estudos faz um tempo e quero chegar em um nível que eu possa desenvolver programas que ajude as pessoas
+- 📫 Se quiser entrar em contato me chama lá no instagram ou no linkedIn
 <div>
   <a href="https://github.com/joaovitorcgds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitorcgds&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
   
   ##
